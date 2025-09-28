@@ -21,12 +21,12 @@ Se utiliza un dataset público que recoge valores horarios de diferentes contami
 - Eliminación de filas con valores nulos en columnas clave.
 - Creación de variables auxiliares: year, month, day, hour.
 2. Selección de contaminantes
-Se analizaron los siguientes contaminantes principales:
-- 🟦 NO₂ (Dióxido de Nitrógeno, µg/m³)
-- 🟩 O₃ (Ozono troposférico, µg/m³)
-- 🟧 PM10 (Partículas ≤10 µm, µg/m³)
-- 🟥 PM2.5 (Partículas ≤2.5 µm, µg/m³)
-- Otros incluidos: BEN, CH4, CO, EBE, NMHC, NO, NOx, SO2, TCH, TOL.
+- Se analizaron los siguientes contaminantes principales:
+  - 🟦 NO₂ (Dióxido de Nitrógeno, µg/m³)
+  - 🟩 O₃ (Ozono troposférico, µg/m³)
+  - 🟧 PM10 (Partículas ≤10 µm, µg/m³)
+  - 🟥 PM2.5 (Partículas ≤2.5 µm, µg/m³)
+  - Otros incluidos: BEN, CH4, CO, EBE, NMHC, NO, NOx, SO2, TCH, TOL.
 3. Análisis exploratorio
 - Estadísticas descriptivas globales y anuales.
 - Distribuciones → histogramas globales y por año.
